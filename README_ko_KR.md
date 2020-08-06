@@ -1,5 +1,5 @@
 # external-release-preview
-[한국어](https://github.com/jaby-zip/external-release-preview/blob/master/README_ko_KR.md) | [영어](https://github.com/jaby-zip/external-release-preview/blob/master/README.md)  
+[한국어](https://github.com/jaby-zip/external-release-preview/blob/master/README_ko_KR.md) | [English](https://github.com/jaby-zip/external-release-preview/blob/master/README.md)  
   
 실행 `Jaby.zip.external.exe`
 
